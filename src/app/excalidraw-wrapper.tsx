@@ -1,8 +1,5 @@
 "use client";
-import {
-  Excalidraw,
-  convertToExcalidrawElements,
-} from "@excalidraw/excalidraw";
+import { Excalidraw } from "@excalidraw/excalidraw";
 
 import "@excalidraw/excalidraw/index.css";
 
